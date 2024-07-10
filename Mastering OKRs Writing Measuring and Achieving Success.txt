@@ -10,3 +10,132 @@ The course will also cover how to evaluate success of OKRs and how adjusting the
 
 * Course Overview
 -----------------
+Welcome to our course on OKRs – Objectives and Key Results.
+This course is designed to provide you with a comprehensive understanding of what OKRs are and their importance for businesses.
+
+You'll also explore steps to craft OKRs effectively, strategies for managers to drive OKR success, and techniques for measuring and tracking OKR progress.
+
+Whether you're new to OKRs or looking to refine your approach, this course will equip you with the required knowledge to navigate OKRs for organizational success.
+
+Let's embark on this journey together and unlock the full potential of OKRs in achieving your company's goals.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Understanding OKRs
+--------------------
+Objectives and Key Results (OKRs) are a powerful  goal-setting framework that helps organizations align their vision with execution.
+
+This framework originated at Intel and has been a game-changer for companies like Google.
+
+OKRs are not just about setting goals; they're about aligning your team's efforts with the strategic direction of your company.
+
+They provide a clear path to follow, with measurable steps that ensure everyone is moving in the same direction.
+
+OKRs have two main components: Objectives and key results.
+
+	. Objectives are your ambitious goals. They are qualitative and should make you stretch beyond your comfort zone. **** GAZPROM PROJECT **** AT THE MOMENT TO CREATE A DEMO THAT CAN
+	BE ACCEPTED BY GAZPROM.
+
+	. Key results, on the other hand, are the quantifiable outcomes that let you know you're achieving your objectives. They often focus on growth, engagement, revenue, performance, or 
+ 	quality. **** GAZPROM PROJECT **** THE DEMO NEEDS TO SHOW THE CALCULATIONS.
+
+Now, let's talk about the best practices for setting OKRs.
+
+	. It's recommended to set OKRs both yearly and quarterly to maintain a strategic focus while allowing for adaptability. **** GAZPROM PROJECT **** IN THREE MONTHS WE NEED TO CREATE
+	A DEMO THAT CAN BE ACCEPTED BY THE COMPANY THAT'S THE OBJECTIVE.
+
+	. Always include numeric targets in your key results to make your progress measurable and transparent. **** GAZPROM PROJECT **** (DESIGN THIS STRATEGY)
+
+	. However, be cautious not to overwhelm yourself or your team with too many OKRs.
+
+The key is to prioritize and focus on what truly matters.
+
+Evaluating your OKRs is a critical step in the process.
+
+	. Key results are assessed using a 0-1 scale, with the average score reflecting the success of the objective. 
+	**** GAZPROM PROJECT **** (ASK THE TEAM IF THE RESULTS WERE ACHIEVED) ****
+
+	. Grading takes place at the start of the next quarter, providing a clear start and end point for your goals. 
+	*** GAZPROM PROJECT **** (ON AUGUST 16TH WE NEED TO KNOW IF WE ACHIEVED THE RESULT OF HAVING A DEMO THAT CAN SATISFY GAZPROM).
+
+As with any framework, there are common mistakes to avoid with OKRs.
+
+	. Setting too many OKRs can dilute focus and effectiveness.
+
+	. Objectives shouldn't just be metric-driven, rather should be inspirational and aligned with your mission.
+	**** GAZPROM PROJECT **** (OUR GOAL IS TO COMPLETE A VERY GOOD DEMO).
+
+	. It's also crucial to differentiate between tasks and key results –key results measure success, not just activity. 
+ 
+	. Implementing well-crafted OKRs enables organizations to track progress and adapt their strategies quickly, ensuring agility in a fast-paced business environment.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Importance of OKRs
+--------------------
+OKRs are not just a tool for setting goals; they are a bridge that connects the aspirations of individuals with the broader mission of the organization.
+**** GAZPROM PROJECT ****
+
+. Elena is becoming a good frotend developer.
+. Anastassia is becoming a good UI/UX designer.
+. I'm becoming a better project manager.
+. Dmitry is becoming a better Business Analyst.
+
+By aligning personal objectives with the company's strategic direction, we create a unified force moving towards common goals.
+
+This alignment is crucial as it ensures that every team member's efforts contribute to the bigger picture, fostering a sense of unity and purpose.
+
+One of the most significant benefits of OKRs is their ability to enhance engagement and motivation.
+**** GAZPROM PROJECT **** This is something that we need to improve.
+
+When individuals clearly understand their goals and can measure their progress, they take ownership of their work. This sense of responsibility, coupled with the transparency and 
+accountability inherent in the OKR framework, boosts motivation and drives performance.
+
+	. By setting clear, measurable targets, OKRs help individuals see the impact of their contributions, fostering a culture of continuous personal and professional growth.
+
+	. OKRs are a powerful tool for driving performance and success within an organization.
+
+	. By setting a clear benchmark for what success looks like, OKRs encourage individuals and teams to stretch their capabilities and aim for continuous improvement.
+
+	. At the heart of the OKR framework is the promotion of open communication and collaboration. By openly sharing goals and progress, we break down silos and encourage  
+	cross-functional teamwork. This transparency builds trust and ensures that everyone is working towards shared objectives.
+
+	. OKRs can enhance problem-solving by bringing together diverse perspectives and collective input.
+
+	. This culture of collaboration can lead to innovative solutions and a stronger, more cohesive organization.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
