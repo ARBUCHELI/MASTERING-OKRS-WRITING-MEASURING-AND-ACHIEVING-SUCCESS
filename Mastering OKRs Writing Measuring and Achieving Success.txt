@@ -109,11 +109,180 @@ accountability inherent in the OKR framework, boosts motivation and drives perfo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Crafting Effective OKRs
+-------------------------
+The first step towards crafting effective OKRs is writing impactful objectives.
+
+Objectives should be ambitious and inspirational, serving as a north star that guides your efforts.
+
+They need to resonate with your team, aligning with the company's mission and vision to provide clear direction.
+
+It's essential to keep the number of objectives limited to a manageable number to maintain focus and ensure that each one can be given the attention it deserves.
+**** GAZPROM PROJECT ****
+At the moment we have the following information for creating objectives:
+
+. According to Vitaliy 95% of the demo is ready, and it will be fully completed on 10/07/2024
+
+. According to Valeriy Mikhailovich only 60% of the demo is ready:
+
+	. It is necessary to show the real values of the numbers for at least two different GPAs and in two different solutions: with and without discounting.
+
+	. The graphic content should correspond to the numerical content.
+
+Once you have your objectives set, the next step is to define clear key results. These are the quantifiable outcomes that will indicate whether you're on track to achieve your objectives.
+
+Key results should focus on specific outcomes like growth, engagement, or revenue, and must include numeric targets to track progress effectively.
+
+It's recommended to limit key results to 4 per objectiveto maintain clarity and focus. It's important to remember that key results should not  only be measurable but also meaningful, 
+ensuring that they truly reflect the success of your objectives.
+
+Even with the best intentions, it's easy to fall into common pitfalls when setting OKRs.
+
+. One key mistake is confusing key results with mere tasks. Key results should measure the impact of your efforts, not just the completion of activities.
+
+. It's also important to avoid setting too many or too few OKRs, as well as ensuring that they are challenging but achievable.
+
+. Another critical point is to refrain from tying OKRs directly to performance reviews, which can lead to conservative goal-setting.
+
+. Well-written OKRs should show clarity and focus.
+
+. Poorly written OKRs are generally vague and non-measurable.
+
+. For example, a poorly written objective for a software developer in a product-based company can be "Make the product better.
+
+. "A well-written objective in this case may be"Enhance product performance and user satisfaction.
+
+. "Similarly, "Work on making the app faster, and get good feedback onwhatever new stuff we add" constitute poorly written key results.
+
+. The first key result can be written in a better way, such as"Reduce the load time of the main application dashboard by 30% by Q2, as measured by internal performance testing tools.
+
+. "Similarly, the second key result can be written as"Achieve a 90% positive feedback rate on the new feature released in Q3 from user surveys and in-app feedback tools.
+
+. "From the example, it is obvious that:
+
+	. first, well-written OKRs are specific and measurable. They clearly define what is to be achieved and how success will be measured, for example, "Reduce the load time of the main 
+	application dashboard by 30%."
+
+	. Second, well-written OKRs are achievable – the goals are ambitious, yet realistic, providing a clear target for the developer to aim for.
+
+	. Third, well-written OKRs are relevant, as each key result directly contributes to the objective of enhancing product performance and user satisfaction, aligning with the 
+	company's goals.
+
+	. Lastly, well-written objectives are time-bound and have set deadlines creating a sense of urgency and a timeline for achievement.
+
+Let's try to understand the common errors in setting OKRs.Consider a scenario where a software company plans to launch a new feature aimed at improving user engagement with their 
+application.
+
+The development team is tasked with designing, implementing, and deploying this feature within a three-month timeframe.
+
+. The first possible error in this case can be a vague objective, such as "Make the app more engaging. "This objective is too broad and doesn't specify what "engaging" means in measurable 
+terms. A possible solution is to refine the objective to be specific and measurable, for example, "Increase daily active users by 20% by the end of Q3 through the launch of the new 
+engagement feature.
+
+. "The second possible error can be non-measurable key result, for example, "Get positive feedback on the new feature. "The issue with this key result is that itdoesn't specify how 
+feedback will be measured or what constitutes "positive. "A possible solution is to make the key result measurable with clear criterion, for example, "Achieve an average user satisfaction 
+score of 4.5/5for the new feature based on the post-launch survey responses.
+
+. "The third possible error can be setting unrealistic key result, for example, "Have zero bugs at launch. "While aiming for high quality, expecting zero bugs is unrealistic and sets the 
+team up for failure.
+
+. A possible solution in this case is to set achievable and realistic key result, for example, "Reduce critical bug reports to fewer than 3 within the first month of launch."The fourth 
+possible error can be the key result not aligning with objective, for example, "Increase the number of social media mentions of the app by 50%. "The issue in this case is that while 
+social media mentions might increase brand visibility, they don't directly measure the success of the new feature in making the app more engaging.
+
+. The possible solution is to ensure that the key result directly supports the objective.
+
+. A better key result in this case might be, "Increase user session time by 15% as a result of engaging with the new feature."These errors can simply be avoided by being specific and 
+measurable, setting realistic expectations, aligning key results with objectives, and regularly reviewing and adjusting the OKRs as needed.
+
+. Avoiding these common errors and following the suggested solutions can help teams set effective OKRs that are clear, achievable, and directly aligned with their strategic goals.
 
 
 
+**** GAZPROM PROJECT ****
+-------------------------
+
+* Objective 1: Display Real Values of Numbers for Different GPAs
+-------------
+
+	. Objective: Ensure accurate and clear presentation of GPA values in the application.
+	------------
+
+	. Key Results:
+	--------------
+		1. Implement Data Display: Develop functionality to show real values of numbers for at least two different GPAs.
+		--------------------------
+			. KR1: Display GPA values for at least two different GPAs on all relevant pages.
+
+			. KR2: Ensure the displayed GPA values are updated in real-time with any data changes.
 
 
+		2. Verify Data Accuracy: Validate that the displayed GPA values are accurate and consistent.
+		------------------------
+			. KR1: Perform manual and automated testing to verify the accuracy of GPA values.
+
+			. KR2: Achieve a 100% match rate between displayed GPAs and database values in test scenarios.
+
+
+		3. User Interface Improvements: Enhance the UI to clearly present GPA values.
+		-------------------------------
+			. KR1: Conduct user testing to ensure the GPA display is intuitive and easy to understand.
+
+			. KR2: Incorporate user feedback to improve the clarity and presentation of GPA values.
+
+
+* Objective 2: Provide Solutions With and Without Discounting
+--------------
+
+	. Objective: Offer clear and distinct solutions for scenarios with and without discounting.
+	------------
+
+	. Key Results:
+	--------------
+		1. Develop Dual Solutions: Create separate views or sections for solutions with and without discounting.
+		--------------------------
+			. KR1: Implement two distinct views (with discounting and without discounting) in the application.
+
+			. KR2: Ensure that users can easily switch between the two views.
+
+
+		2. Ensure Numerical Consistency: Validate that numerical content corresponds to the selected solution type (with or without discounting).
+
+			. KR1: Perform thorough testing to ensure that numerical values adjust correctly based on the selected solution type.
+
+			. KR2: Achieve zero discrepancies between the displayed numbers and the underlying calculations in both views.
+
+
+		3. Graphical Representation: Align graphical content with numerical values for both solutions.
+
+			. KR1: Develop graphical elements that dynamically update to reflect the numerical values for each solution type.
+
+			. KR2: Validate through user testing that graphical content is accurate and corresponds to the numerical content in both scenarios.
+
+
+* Summary of OKRs
+-----------------
+	. Objective 1: Ensure accurate and clear presentation of GPA values in the application.
+	--------------
+		KR1: Display GPA values for at least two different GPAs on all relevant pages.
+		KR2: Ensure the displayed GPA values are updated in real-time with any data changes.
+		KR3: Perform manual and automated testing to verify the accuracy of GPA values.
+		KR4: Achieve a 100% match rate between displayed GPAs and database values in test scenarios.
+		KR5: Conduct user testing to ensure the GPA display is intuitive and easy to understand.
+		KR6: Incorporate user feedback to improve the clarity and presentation of GPA values.
+
+
+	. Objective 2: Offer clear and distinct solutions for scenarios with and without discounting.
+	--------------
+		KR1: Implement two distinct views (with discounting and without discounting) in the application.
+		KR2: Ensure that users can easily switch between the two views.
+		KR3: Perform thorough testing to ensure that numerical values adjust correctly based on the selected solution type.
+		KR4: Achieve zero discrepancies between the displayed numbers and the underlying calculations in both views.
+		KR5: Develop graphical elements that dynamically update to reflect the numerical values for each solution type.
+		KR6: Validate through user testing that graphical content is accurate and corresponds to the numerical content in both scenarios.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
