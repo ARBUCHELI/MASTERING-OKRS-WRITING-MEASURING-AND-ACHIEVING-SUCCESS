@@ -284,6 +284,92 @@ measurable, setting realistic expectations, aligning key results with objectives
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Manager's Role in OKR Success
+-------------------------------
+As we move forward, let's focus on the role of a manager in OKR success. A key aspect of this role is guiding teams in setting their OKRs.
+
+**** GAZPROM PROJECT ****
+(Information provided by Dmitry)
+
+1) to get 4 СЖЦ calculations done (I’m doing it now, will be ready by the morning) 
+2) link these calculations to the graphs (it’s on Vitaliy) 
+3) link the calculation setup tree to the lifecycle for the preservation section (it’s on Vitaliy too).
+
+. Managers play a crucial part in helping teams understand the OKR framework and 
+
+. ensuring that the objectives set are aligned with the organization's goals.
+**** GAZPROM PROJECT ****
+(Dmitry claims to be in charge of this part, because he is communicating with the directors of the company) ---> In a Scrum framework Dmitry is acting as a Product Owner.
+
+. It's about striking a balance between ambition and realism, encouraging teams to set goals that stretch their capabilities while remaining achievable
+**** GAZPROM PROJECT ****
+(Dmitry claims to be in charge of this part, because he is discussing the deadlines with the directors of the company)
+
+. As a manager, you can facilitate brainstorming sessions for OKR development and support your team in setting OKRs that are both inspiring and aligned with the company's strategic 
+direction.
+*** GAZPROM PROJECT ****
+(We should discuss this together)
+
+Once OKRs are set, the next step is implementing them effectively.
+
+. As a manager, you'll need to integrate OKRs into the regular workflows of your team,
+**** GAZPROM PROJECT **** (WE CAN MIX OKR WITH AGILE FOR DEFINING USER STORIES FOR EXAMPLE)
+
+. monitor progress, and provide ongoing support.
+**** GAZPROM PROJECT **** (HERE IS IMPORTANT TO DON'T CREATE SILOS, BECAUSE WITHOUT A CULTURE OF TRANSPARENCY IS IMPOSSIBLE TO MONITOR PROGRESS).
+
+It's important to address challenges as they arise and adjust OKRs when necessary. **** GAZPROM PROJECT **** VERY IMPORTANT
+
+. Celebrating milestones is also crucial for maintaining motivation and recognizing the hard work of your team.
+**** GAZPROM PROJECT **** (THIS SHOULD BE AN IMPORTANT PART OF THE CULTURE OF THE ORGANIZATION).
+
+An important strategy for effective OKR implementation is to keep your team focused and motivated throughout the OKR cycle.
+**** GAZPROM PROJECT **** (WITHOUT TRANSPARENCY THE MEMBERS OF THE TEAM LOSE MOTIVATION BECAUSE THEY THINK THAT THEIR CONTRIBUTION IS NOT VALUABLE).
+
+* Coaching is also an integral part of achieving OKRs.
+------------------------------------------------------
+. Providing regular feedback on OKR progress is essential, as is 
+**** GAZPROM PROJECT **** (FOR THIS REASON THE DAILY STANDUPS THAT WERE ADOPTED FROM SCRUM ARE VERY IMPORTANT).
+
+. offering coaching to improve performance.
+**** GAZPROM PROJECT **** (WE ARE IN THE PROCESS).
+
+. Encouraging problem-solving and innovation within your team will help them overcome obstacles and meet their OKRs.
+**** GAZPROM PROJECT **** (WE NEED TO TRAIN THE MEMBERS OF THE TEAM IN AGILE AND OKR)
+
+. It's also important to foster a culture of learning and adaptation, where setbacks are seen as opportunities for growth.
+
+
+
+* Finally, cultivating a supportive OKR culture is vital for the success of the framework within your organization.
+-------------------------------------------------------------------------------------------------------------------
+. This involves promoting transparency and open communication,
+**** GAZPROM PROJECT **** (THIS IS THE MAIN CULTURAL CHANGE THAT WE NEED TO MAKE IN THE ORGANIZATION, BECAUSE THE IDEAL SITUATION IS THAT ALL THE MEMBERS OF THE TEAM CAN BE INFORMED OF THE
+CURRENT SITUATION OF THE PROJECT, IN ORDER TO BOOST THE CREATIVE POTENTIAL OF EACH MEMBER OF THE TEAM.  WITHOUT OPEN COMMUNICATION AND TRANSPARENCY IS VERY DIFFICULT TO APPLY ANY METHODOLO
+GY).
+
+. encouraging collaboration across teams,
+**** GAZPROM PROJECT **** (WE ARE IMPLEMENTING THIS THROUGHT THE IMPROVEMENT OF THE COMMUNNICATION WITH VALERIY MIKHAILOVICH).
+
+. and recognizing OKR-related achievements.
+
+. As a leader, you must lead by example in embracing the OKR methodology. **** GAZPROM PROJECT **** (WE NEED THE SUPPORT OF ALL MEMBERS OF THE TEAM TO APPLY THE METHODOLOGIES IN THE BEST
+POSSIBLE WAY).
+
+As a manager, you should aim to build a culture that supports OKRs, where every team member feels valued and motivated to contribute to the organization's objectives.
+							                  --------------------------------------------------------------------------------------------
+
+**** GAZPROM **** THIS IS VERY IMPORTANT BECAUSE WITHOUT MOTIVATION, FEEDBACK, AND SUPPORT, EACH MEMBER OF THE TEAM WILL ALWAYS BE IN A CONSTANT SEARCH FOR RUNNING AWAY FROM OUR ORGANIZA -
+TION.  
+
+REMEMBER THAT PEOPLE DON'T QUIT COMPANIES, PEOPLE ABANDON CORPORATE CULTURES THAT DON'T FIT THEIR EXPECTATIONS.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
